@@ -1,0 +1,42 @@
+.primary-background {
+	background-color: #8da38d;
+}
+.primary-background-light {
+	background-color: #bdd4bd;
+}
+.primary-background-dark {
+	background-color: #5f7460;
+}
+.primary-text {
+	color: #8da38d;
+}
+.primary-text-light {
+	color: #bdd4bd;
+}
+.primary-text-dark {
+	color: #5f7460;
+}
+.primary-text-custom {
+	color: #1b5454;
+}
+.secondary-background {
+	background-color: #7499a8;
+}
+.secondary-background-light {
+	background-color: #a4cada;	
+}
+.secondary-background-dark {
+	background-color: #466b79;	
+}
+.secondary-text {
+	color: #7499a8;
+}
+.secondary-text-light {
+	color: #a4cada;
+}
+.secondary-text-dark {
+	color: #466b79;
+}
+.secondary-text-custom {
+	color: #242824;
+}
