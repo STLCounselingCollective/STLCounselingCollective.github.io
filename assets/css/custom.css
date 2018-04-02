@@ -1,42 +1,43 @@
-.primary-background {
-	background-color: #8da38d;
+.primary-bg {
+  background-color: rgba(141,163,141,1);
 }
-.primary-background-light {
-	background-color: #bdd4bd;
+
+main {
+  background-color: #fafafa;
 }
-.primary-background-dark {
-	background-color: #5f7460;
+
+#sidenav-logo {
+  padding: 8pt;
+  width: 100%;
 }
-.primary-text {
-	color: #8da38d;
+
+header,
+main,
+footer {
+  padding-left: 300px;
 }
-.primary-text-light {
-	color: #bdd4bd;
+
+@media only screen and (max-width: 992px) {
+  header,
+  main,
+  footer {
+    padding-left: 0;
+  }
 }
-.primary-text-dark {
-	color: #5f7460;
+
+.section-title {
+  color: rgba(141,163,141,1);
+  font-size: 15pt;
 }
-.primary-text-custom {
-	color: #1b5454;
+
+.profile-img {
+  width: 100%;
 }
-.secondary-background {
-	background-color: #7499a8;
+
+a {
+  color: rgba(141,163,141,1);
 }
-.secondary-background-light {
-	background-color: #a4cada;	
-}
-.secondary-background-dark {
-	background-color: #466b79;	
-}
-.secondary-text {
-	color: #7499a8;
-}
-.secondary-text-light {
-	color: #a4cada;
-}
-.secondary-text-dark {
-	color: #466b79;
-}
-.secondary-text-custom {
-	color: #242824;
+
+.social-media-list {
+  margin-left: 24px;
 }
